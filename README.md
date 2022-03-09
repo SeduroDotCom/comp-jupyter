@@ -3,6 +3,10 @@
 
 
 ## Setup Python / venv / requirements
+Install
+```
+ brew install pyenv
+```
 
 ### Getting started workflow
 
