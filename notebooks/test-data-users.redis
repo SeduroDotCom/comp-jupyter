@@ -1,0 +1,2 @@
+HSET 'user:001' first_name 'John' last_name 'doe' dob '12-JUN-1970'
+HSET 'user:002' first_name 'David' last_name 'Bloom' dob '03-MAR-1981'
